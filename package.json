@@ -1,0 +1,18 @@
+{
+  "name": "invisableyoutube",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron-localshortcut": "^3.2.1",
+    "global-keypress": "0.0.8"
+  },
+  "devDependencies": {
+    "electron": "^13.1.2"
+  }
+}
